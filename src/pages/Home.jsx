@@ -33,7 +33,7 @@ function Home() {
 
           <div className="flex flex-wrap gap-4">
             <a
-              href="/projects"
+              href="#projects"
               className="inline-flex items-center gap-3 rounded-full bg-gradient-to-r from-lilac to-pink px-6 py-4 text-sm font-semibold text-slate-950 transition hover:scale-[1.01]"
             >
               View Projects <ArrowRight size={18} />
